@@ -34,6 +34,8 @@ python random_predict.py
 
 This should generate a `prediction.npz` file, which you can upload by clicking on `Create Submission` on the challenge page.
 
+**NOTE** The submitted `npz` is expected to contain a `prediction` key storing a ndarray of the same shape as that of the `data_test.npz`.  Please refer [here](https://github.com/AIcrowd/seismic-facies-identification-starter-kit/blob/master/random_predict.py#L34) for an example.
+
 ## Starter Notebooks
 **Coming Soon**
 
