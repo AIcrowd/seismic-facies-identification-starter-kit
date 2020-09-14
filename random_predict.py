@@ -17,7 +17,7 @@ and fill it with integer values in the range [1, 6]
 """
 # Load test dataset
 test_dataset = np.load(TEST_DATASET_PATH, allow_pickle=True, mmap_mode = 'r')
-test_dataset = test_dataset.f.arr_0 # This allows us to access the actual np array from the loaded npz file object
+test_dataset = test_dataset["data"] # This allows us to access the actual np array from the loaded npz file object
 
 # Generate random prediction
 prediction = np.random.randint(
