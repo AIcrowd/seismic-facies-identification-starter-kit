@@ -1,7 +1,15 @@
-# learning-to-smell-starter-kit
-![AIcrowd-Logo](https://raw.githubusercontent.com/AIcrowd/AIcrowd/master/app/assets/images/misc/aicrowd-horizontal.png)
+# Seismic Facies Identification - Starter Kit
 
-Starter kit for getting started in the [Seismic Facies Identification Challenge](https://www.aicrowd.com/challenges/seismic-facies-identification-challenge).
+![Seismic-Facies-Challenge](https://i.imgur.com/8rBSM1Z.jpeg)
+
+
+- 💪 &nbsp;Challenge Page: https://www.aicrowd.com/challenges/seismic-facies-identification-challenge
+- 🗣️ &nbsp;Discussion Forum: https://www.aicrowd.com/challenges/seismic-facies-identification-challenge/discussion
+- 🏆 &nbsp;Leaderboard: https://www.aicrowd.com/challenges/seismic-facies-identification-challenge/leaderboards
+
+<p align="center">
+ <a href="https://discord.gg/RC9d7cJ"><img src="https://img.shields.io/discord/657211973435392011?style=for-the-badge" alt="chat on Discord"></a>
+</p>
 
 # Installation
 
