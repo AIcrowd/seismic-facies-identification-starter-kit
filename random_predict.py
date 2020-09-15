@@ -15,6 +15,15 @@ For random prediction generation, we will simply
 load the test_dataset and generate a random numpy array of the same shape
 and fill it with integer values in the range [1, 6]
 """
+
+# Load train dataset
+train_dataset = np.load(TRAIN_DATASET_PATH, allow_pickle=True, mmap_mode='r')
+train_dataset = train_dataset["data"]
+
+# Load train labels
+train_labels = np.load(TRAIN_LABELS_PATH, allow_pickle=True, mmap_mode='r')
+train_labels = train_labels["labels"]
+
 # Load test dataset
 test_dataset = np.load(TEST_DATASET_PATH, allow_pickle=True, mmap_mode = 'r')
 test_dataset = test_dataset["data"] # This allows us to access the actual np array from the loaded npz file object
