@@ -6,7 +6,7 @@ import numpy as np
 
 TRAIN_DATASET_PATH = os.getenv("TRAIN_DATASET_PATH", "data/data_train.npz") 
 TRAIN_LABELS_PATH = os.getenv("TRAIN_LABELS_PATH", "data/labels_train.npz") 
-TEST_DATASET_PATH = os.getenv("TEST_DATASET_PATH", "data/data_test.npz")
+TEST_DATASET_PATH = os.getenv("TEST_DATASET_PATH", "data/data_test_1.npz")
 
 OUTPUT_FILE_PATH = os.getenv("OUTPUT_FILE_PATH", "prediction.npz")
 

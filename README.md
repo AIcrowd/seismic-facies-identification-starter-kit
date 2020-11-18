@@ -25,7 +25,7 @@ and put them in the `data/` folder. This should give you a folder structure simi
 
 ```
 data/
-├── data_test.npz
+├── data_test_1.npz
 ├── data_train.npz
 └── labels_train.npz
 ```
