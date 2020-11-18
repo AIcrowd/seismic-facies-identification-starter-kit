@@ -26,12 +26,15 @@ and put them in the `data/` folder. This should give you a folder structure simi
 ```
 data/
 ├── data_test_1.npz
+├── data_test_2.npz
 ├── data_train.npz
 └── labels_train.npz
 ```
 
 
 **NOTE**: If you have not accepted the challenge rules (by clicking on the `Participate` button), you will be asked to agree to the Rules of the competition at this point.
+
+**NOTE**: For Round-2, you will have to submit predictions using `data_test_2.npz` and for Round-1 you should submit predictions using `data_test_1.npz`.
 
 # Basic Usage
 
