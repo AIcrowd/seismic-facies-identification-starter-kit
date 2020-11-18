@@ -47,6 +47,10 @@ This should generate a `prediction.npz` file, which you can upload by clicking o
 
 **NOTE** The submitted `npz` is expected to contain a `prediction` key storing a ndarray of the same shape as that of the `data_test.npz`.  Please refer [here](https://github.com/AIcrowd/seismic-facies-identification-starter-kit/blob/master/random_predict.py#L34) for an example.
 
+## Compute Score locally 
+
+Please refer to [compute_score.py](compute_score.py) for the code that is used to compute the scores on the leaderboard. If there are any optimizations you would want to suggest, or any bugs you find, please consider sending across a pull request.
+
 ## Starter Notebooks
 **Coming Soon**
 
