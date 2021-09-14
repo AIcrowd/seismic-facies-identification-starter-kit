@@ -51,8 +51,16 @@ This should generate a `prediction.npz` file, which you can upload by clicking o
 
 Please refer to [compute_score.py](compute_score.py) for the code that is used to compute the scores on the leaderboard. If there are any optimizations you would want to suggest, or any bugs you find, please consider sending across a pull request.
 
-## Starter Notebooks
-**Coming Soon**
+## Notebooks by Community
+
+* [Just a simple Video-Notebook - Starter Pack](www.aicrowd.com/showcase/explainer-just-a-simple-video-notebook-starter-pack)
+* [Introduction and General Approach Final Pack!](www.aicrowd.com/showcase/explainer-introduction-and-general-approach-final-pack)
+* [EDA in details, baseline and advanced models](discourse.aicrowd.com/t/explainer-eda-in-details-baseline-and-advanced-models/3745/1)
+* [Seismic Facies Identification Starter](discourse.aicrowd.com/t/explainer-seismic-facies-identification-starter-pack/3735)
+* [Detectron2 & COCO Dataset 🔥 • Web Application & Visualizations • End-to-End Baseline & Tensorflow](discourse.aicrowd.com/t/explainer-detectron2-coco-dataset-web-application-visualizations-end-to-end-baseline-tensorflow/3799/1)
+* [PyTorch starter 0.857 F1-Score on public LB](discourse.aicrowd.com/t/explainer-pytorch-starter-0-857-f1-score-on-public-lb/3790)
+* [Need extra features? Different input approach? Try Seismic Attributes! ](discourse.aicrowd.com/t/explainer-need-extra-features-different-input-approach-try-seismic-attributes/3766)
+* [End to End solution that gives above 80% Accuracy](discourse.aicrowd.com/t/end-to-end-solution-that-gives-above-80-accuracy/3778)
 
 # Author
 S.P. Mohanty <mohanty@aicrowd.com>
